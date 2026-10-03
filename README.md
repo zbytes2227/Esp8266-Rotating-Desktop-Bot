@@ -1,6 +1,9 @@
-# Table Robot V9
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/75e8e892-e4b5-4cd1-9de4-d55a5e6e1db5" /># Table Robot V9
 
 An ESP8266 D1 Mini table robot with a motorized pan head, expressive OLED eyes, touch reactions, sound effects, Wi‑Fi clock/weather screens, battery monitoring, and multiple behavior modes.
+
+ <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/db275be9-987c-4745-b6b0-04a233387a07" />
+
 
 ## Features
 
